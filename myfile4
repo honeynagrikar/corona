@@ -1,2 +1,3 @@
 This is the first tutorial in our Golang tutorial series. This tutorial provides an introduction to Go and also discusses the advantages of choosing Go over other programming languages. We will also learn how to install Go in Mac OS, Windows and Linuxu.
 
+Go also known as Golang is an open source, compiled and statically typed programming language developed by Google. The key people behind the creation of Go are Rob Pike, Ken Thompson and Robert Griesemer. Go was made publicly available in November 2009.
